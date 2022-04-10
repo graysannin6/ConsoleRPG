@@ -1,0 +1,14 @@
+C:\Users\15148\Desktop\RPG_Game\RPG_Game\RPG_Game\obj\Debug\RPG_Game.csprojAssemblyReference.cache
+C:\Users\15148\Desktop\RPG_Game\RPG_Game\RPG_Game\obj\Debug\RPG_Game.csproj.CoreCompileInputs.cache
+C:\Users\15148\Desktop\RPG_Game\RPG_Game\RPG_Game\bin\Debug\RPG_Game.exe.config
+C:\Users\15148\Desktop\RPG_Game\RPG_Game\RPG_Game\bin\Debug\RPG_Game.exe
+C:\Users\15148\Desktop\RPG_Game\RPG_Game\RPG_Game\bin\Debug\RPG_Game.pdb
+C:\Users\15148\Desktop\RPG_Game\RPG_Game\RPG_Game\obj\Debug\RPG_Game.exe
+C:\Users\15148\Desktop\RPG_Game\RPG_Game\RPG_Game\obj\Debug\RPG_Game.pdb
+C:\Users\chris\Downloads\Solution_RPG_Game\RPG_Game\RPG_Game\RPG_Game\bin\Debug\RPG_Game.exe.config
+C:\Users\chris\Downloads\Solution_RPG_Game\RPG_Game\RPG_Game\RPG_Game\bin\Debug\RPG_Game.exe
+C:\Users\chris\Downloads\Solution_RPG_Game\RPG_Game\RPG_Game\RPG_Game\bin\Debug\RPG_Game.pdb
+C:\Users\chris\Downloads\Solution_RPG_Game\RPG_Game\RPG_Game\RPG_Game\obj\Debug\RPG_Game.csprojAssemblyReference.cache
+C:\Users\chris\Downloads\Solution_RPG_Game\RPG_Game\RPG_Game\RPG_Game\obj\Debug\RPG_Game.csproj.CoreCompileInputs.cache
+C:\Users\chris\Downloads\Solution_RPG_Game\RPG_Game\RPG_Game\RPG_Game\obj\Debug\RPG_Game.exe
+C:\Users\chris\Downloads\Solution_RPG_Game\RPG_Game\RPG_Game\RPG_Game\obj\Debug\RPG_Game.pdb

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPlayer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Player>
+    <Name>kevin</Name>
+    <HP>64</HP>
+    <XP>8</XP>
+    <GP>6936</GP>
+    <Protect>false</Protect>
+    <MyWeapon>
+      <Name>Magic Sword</Name>
+      <Price>500</Price>
+      <Min_Damage>50</Min_Damage>
+      <Max_Damage>60</Max_Damage>
+    </MyWeapon>
+    <MyPowers>
+      <Power>
+        <Name>Sleepy Dust</Name>
+        <Price>600</Price>
+        <Min_XP>6</Min_XP>
+        <Type>Sleepy</Type>
+      </Power>
+      <Power>
+        <Name>Magic Cape</Name>
+        <Price>300</Price>
+        <Min_XP>3</Min_XP>
+        <Type>Invisible</Type>
+      </Power>
+    </MyPowers>
+  </Player>
+</ArrayOfPlayer>
